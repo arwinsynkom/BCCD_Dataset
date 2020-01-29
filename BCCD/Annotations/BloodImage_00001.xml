@@ -3,7 +3,7 @@
 	<filename>BloodImage_00001.jpg</filename>
 	<source>
 		<annotation>synkom</annotation>
-		<database>synkom</database>
+		<database>Unknown</database>
 		<image>synkom</image>
 	</source>
 	<size>
@@ -13,7 +13,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>human</name>
+		<name>WBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -26,7 +26,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>human</name>
+		<name>WBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -39,7 +39,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>human</name>
+		<name>WBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -52,7 +52,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>human</name>
+		<name>WBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -65,7 +65,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>human</name>
+		<name>WBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -78,7 +78,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>human</name>
+		<name>WBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -91,7 +91,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>human</name>
+		<name>WBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -104,7 +104,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>human</name>
+		<name>WBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
