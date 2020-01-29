@@ -1,10 +1,9 @@
 <annotation>
 	<folder>JPEGImages</folder>
 	<filename>BloodImage_00001.jpg</filename>
+	<path>/home/pi/detection_dataset/JPEGImages/BloodImage_00001.jpg</path>
 	<source>
-		<annotation>synkom</annotation>
 		<database>Unknown</database>
-		<image>synkom</image>
 	</source>
 	<size>
 		<width>720</width>
@@ -13,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>WBC</name>
+		<name>RBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -26,7 +25,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>WBC</name>
+		<name>RBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -39,7 +38,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>WBC</name>
+		<name>RBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -52,7 +51,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>WBC</name>
+		<name>RBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -65,7 +64,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>WBC</name>
+		<name>RBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -78,7 +77,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>WBC</name>
+		<name>RBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -91,7 +90,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>WBC</name>
+		<name>RBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
@@ -104,7 +103,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>WBC</name>
+		<name>RBC</name>
 		<pose>notset</pose>
 		<occluded>0</occluded>
 		<truncated>0</truncated>
