@@ -3,9 +3,7 @@
 	<filename>BloodImage_00002.jpg</filename>
 	<path>/home/pi/detection_dataset/JPEGImages/BloodImage_00002.jpg</path>
 	<source>
-		<annotation>synkom</annotation>
 		<database>Unknown</database>
-		<image>synkom</image>
 	</source>
 	<size>
 		<width>720</width>
