@@ -64,7 +64,7 @@ for imageFileName in image_names:
         ClassName= row.cell_type
         # assign different color to different classes of objects
         if row.cell_type == 'HUMAN':
-            ax.annotate('RBC', xy=(xmax-40,ymin+20))
+            ax.annotate('HUMAN', xy=(xmax-40,ymin+20))
             rect = patches.Rectangle((xmin,ymin), width, height, edgecolor = 'r', facecolor = 'none')
         elif row.cell_type == 'WBC':
             ax.annotate('WBC', xy=(xmax-40,ymin+20))
