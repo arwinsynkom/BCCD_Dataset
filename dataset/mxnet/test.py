@@ -9,7 +9,8 @@ batch_size = 64
 data_dir = '../../BCCD'
 
 def get_iterators(data_shape, batch_size):
-    class_names = ["RBC", "WBC", "Platelets"]
+#    class_names = ["RBC", "WBC", "Platelets"]
+    class_names = ["HUMAN"]
     num_class = len(class_names)
     train_iter = image.ImageDetIter(
         batch_size=batch_size,
