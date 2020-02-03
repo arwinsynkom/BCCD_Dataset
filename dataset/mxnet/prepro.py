@@ -3,7 +3,8 @@ import xml.etree.ElementTree as ET
 import mxnet as mx
 
 
-classes = ["RBC", "WBC", "Platelets"]
+#classes = ["RBC", "WBC", "Platelets"]
+classes = ["HUMAN"]
 ratio = 0.9
 path = '../../BCCD'
 
