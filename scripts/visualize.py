@@ -22,7 +22,7 @@ for elem in tree.iter():
 						xmax = int(round(float(dim.text)))
 					if 'ymax' in dim.tag:
 						ymax = int(round(float(dim.text)))
-				if name[0] == "R":
+				if name[0] == "H":
 					cv2.rectangle(image, (xmin, ymin),
 								(xmax, ymax), (0, 255, 0), 1)
 					cv2.putText(image, name, (xmin + 10, ymin + 15),
