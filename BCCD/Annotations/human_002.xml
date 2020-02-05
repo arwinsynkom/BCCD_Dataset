@@ -1,0 +1,28 @@
+<annotation>
+	<folder>Annotations</folder>
+	<filename>human_002.jpg</filename>
+	<source>
+		<annotation>Annotations</annotation>
+		<database>Annotations</database>
+		<image>Annotations</image>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>notset</pose>
+		<occluded>0</occluded>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>321</ymin>
+			<xmax>348</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>
