@@ -1,2 +1,2 @@
-BloodImage_00002
-BloodImage_00003
+human_002
+human_003
