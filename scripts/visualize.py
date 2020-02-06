@@ -4,9 +4,9 @@
 import xml.etree.ElementTree as ET
 import cv2
 
-image = cv2.imread("../BCCD/JPEGImages/BloodImage_00023.jpg")
+image = cv2.imread("../BCCD/JPEGImages/human_002.jpg")
 
-tree = ET.parse("Annotations/BloodImage_00023.xml")
+tree = ET.parse("Annotations/human_002.xml")
 for elem in tree.iter():
 	if 'object' in elem.tag or 'part' in elem.tag:
 		for attr in list(elem):
